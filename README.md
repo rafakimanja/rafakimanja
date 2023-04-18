@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Rafael Lopes Ens 
 
-- 💻 Téc. em informática - IFRS/Campus Osório 
+- 💻 Estudante de ADS - Analise e Desenvolvimento de Sistemas 
 - 🌍 Iniciante no mundo da programação
 
 <div align="center">
@@ -26,7 +26,7 @@
   ##
   
   <div>
-  <a href="https://www.instagram.com/rafa_lopes_09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/raffa_ens/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rakimanja" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-lopes-0b9822218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://open.spotify.com/user/22ahz44rtsds6fjp5enddyoqi?si=db351f1849b2442d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" targe="_blank"></a>
