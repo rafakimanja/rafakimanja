@@ -1,7 +1,6 @@
-### Olá! Meu nome é Rafael Lopes Ens 
 
-- 💻 Estudante de ADS - Analise e Desenvolvimento de Sistemas 
-- 🌍 Iniciante no mundo da programação
+
+💻 Estudante de ADS - Analise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/rafakimanja">
