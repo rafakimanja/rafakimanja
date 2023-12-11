@@ -18,8 +18,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
 </div>
-  para colocar um gif:
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"    src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+
 <!-- link para os ícones: https://github.com/devicons/devicon/tree/master/icons --> 
   
   ##
