@@ -1,6 +1,7 @@
 
 
 💻 Estudante de ADS - Analise e Desenvolvimento de Sistemas 
+🐍 Desenvolvedor Web - Backend Python
 
 <div align="center">
   <a href="https://github.com/rafakimanja">
