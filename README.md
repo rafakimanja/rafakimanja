@@ -1,6 +1,7 @@
 
 
 💻 Estudante de ADS - Analise e Desenvolvimento de Sistemas 
+<br>
 🐍 Desenvolvedor Web - Backend Python
 
 <div align="center">
