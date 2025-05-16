@@ -27,7 +27,6 @@
   ### Front-End Frameworks
   <div style="display: flex; flex-direction: column">
     <img src="https://img.shields.io/badge/-React-2e2e2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/-Tailwind-2e2e2e?style=for-the-badge&logo=tailwindcss&logoColor=#026288" />
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </div>
 
@@ -53,6 +52,7 @@
 
 ### Other Frameworks
 <div>
+  <img src="https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma" />
   <img src="https://img.shields.io/badge/-Mongoose-69b23f?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-GORM-00B5AD?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens" />
